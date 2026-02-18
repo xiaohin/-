@@ -119,7 +119,7 @@ about:Button("飞行",function()
 end)
 
 about:Button("法天象地",function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/kismile36/rjrzhongxing/refs/heads/main/rjr/fatianxiangdi"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaohin/-/refs/heads/main/%E6%B3%95%E5%A4%A9%E8%B1%A1%E5%9C%B0"))()
 end)
 
 about:Button("fps优化（关闭不了一点傻逼）",function()
